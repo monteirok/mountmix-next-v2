@@ -1,0 +1,29 @@
+<svg id="visual" viewBox="0 0 900 600" width="900" height="600" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <g stroke-width="1" stroke-linejoin="bevel">
+        <path d="M412 382L444 187L201 244Z" fill="#150000" stroke="#150000"></path>
+        <path d="M201 244L208 461L412 382Z" fill="#150000" stroke="#150000"></path>
+        <path d="M444 187L219 0L201 244Z" fill="#1e0200" stroke="#1e0200"></path>
+        <path d="M444 187L454 0L219 0Z" fill="#1b0100" stroke="#1b0100"></path>
+        <path d="M208 461L239 600L412 382Z" fill="#1f0200" stroke="#1f0200"></path>
+        <path d="M201 244L0 353L208 461Z" fill="#1c0100" stroke="#1c0100"></path>
+        <path d="M208 461L0 600L239 600Z" fill="#1b0100" stroke="#1b0100"></path>
+        <path d="M0 159L0 353L201 244Z" fill="#180100" stroke="#180100"></path>
+        <path d="M219 0L0 159L201 244Z" fill="#180100" stroke="#180100"></path>
+        <path d="M699 437L444 187L412 382Z" fill="#1d0200" stroke="#1d0200"></path>
+        <path d="M699 437L666 145L444 187Z" fill="#140000" stroke="#140000"></path>
+        <path d="M444 187L666 145L454 0Z" fill="#190100" stroke="#190100"></path>
+        <path d="M239 600L470 600L412 382Z" fill="#140000" stroke="#140000"></path>
+        <path d="M612 600L699 437L412 382Z" fill="#1f0200" stroke="#1f0200"></path>
+        <path d="M219 0L0 0L0 159Z" fill="#170000" stroke="#170000"></path>
+        <path d="M470 600L612 600L412 382Z" fill="#170000" stroke="#170000"></path>
+        <path d="M900 199L701 0L666 145Z" fill="#150000" stroke="#150000"></path>
+        <path d="M666 145L701 0L454 0Z" fill="#1b0100" stroke="#1b0100"></path>
+        <path d="M0 353L0 600L208 461Z" fill="#140000" stroke="#140000"></path>
+        <path d="M900 401L900 199L699 437Z" fill="#140000" stroke="#140000"></path>
+        <path d="M699 437L900 199L666 145Z" fill="#1f0200" stroke="#1f0200"></path>
+        <path d="M900 600L900 401L699 437Z" fill="#190100" stroke="#190100"></path>
+        <path d="M900 199L900 0L701 0Z" fill="#140000" stroke="#140000"></path>
+        <path d="M612 600L900 600L699 437Z" fill="#170000" stroke="#170000"></path>
+    </g>
+</svg>
